@@ -3,7 +3,7 @@
     "name": "My Offline Site",
     "icons": [
         {
-        "src": "icon-192.png",
+        "src": "logo.png",
         "type": "image/png",
         "sizes": "192x192"
         }
